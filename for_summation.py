@@ -5,6 +5,6 @@ total=0
 
 for i in range(1, user_num+1):
 
-total = total + 1
+  total = total + 1
 
-print(total)
+  print(total)
