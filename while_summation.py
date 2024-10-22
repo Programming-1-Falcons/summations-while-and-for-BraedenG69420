@@ -1,4 +1,4 @@
-user-num=input(int(What is your number?"))
+user_num=input(int(What is your number?"))
 
 loopedamount=0
 
