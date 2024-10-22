@@ -1,3 +1,4 @@
+#while summation code following directions from Readme
 user_num= int(input("input number:"))
 
 total=0
