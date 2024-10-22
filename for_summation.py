@@ -1,5 +1,5 @@
 #while summation code following directions from Readme
-user_num= int(input)
+user_num= int(input())
 
 total=0
 biggie=0
